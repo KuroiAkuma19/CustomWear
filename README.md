@@ -18,8 +18,8 @@ A modern, responsive e-commerce platform for high-quality apparel. **3DClothing*
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React.js + Vite (for lightning-fast development)
-* **Styling:** Tailwind CSS (for modern, utility-first styling)
+* **Frontend:** React.js + Vite
+* **Styling:** Tailwind CSS 
 * **Icons & Assets:** React Icons, Custom 3D Graphics
 * **Deployment:** GitHub Pages
 
