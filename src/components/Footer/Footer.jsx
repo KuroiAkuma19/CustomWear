@@ -47,10 +47,8 @@ const Footer = () => {
         <div data-aos="zoom-in" className="grid md:grid-cols-3 pb-44 pt-5">
           {/* company details */}
           <div className="py-8 px-4">
-            <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-1">
-              <FiShoppingBag size="30" />
-              {/* <img src={footerLogo} alt="" className="max-w-[50px]" /> */}
-              3DClothing
+            <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-1">        
+              CustomWear
             </h1>
             <p>
             Fresh fits, bold styles. Explore our latest collection of everyday essentials and trendsetting pieces – designed to make you stand out.

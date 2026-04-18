@@ -20,7 +20,7 @@ const Navbar = ({ handleOrderPopup }) => {
           <div>
             <a href="#" className="font-bold text-xl items-center flex gap-1">
               <FiShoppingBag size="30" />
-              3DClothing
+              CustomWear
             </a>
           </div>
 
