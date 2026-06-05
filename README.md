@@ -1,6 +1,4 @@
-# 👕 3DClothing - CustomWear
-
-A modern, responsive e-commerce platform for high-quality apparel. **3DClothing** features a sleek dark UI, interactive product displays, and a seamless shopping experience.
+A modern, responsive e-commerce platform for high-quality apparel. **Custom Clothing** features a sleek dark UI, interactive product displays, and a seamless shopping experience.
 
 🚀 **Live Demo:** [kuroiakuma19.github.io/CustomWear/]
 
@@ -20,7 +18,7 @@ A modern, responsive e-commerce platform for high-quality apparel. **3DClothing*
 
 * **Frontend:** React.js + Vite
 * **Styling:** Tailwind CSS 
-* **Icons & Assets:** React Icons, Custom 3D Graphics
+* **Icons & Assets:** React Icons, Custom Graphics
 * **Deployment:** GitHub Pages
 
 ---
